@@ -12,3 +12,6 @@ When the numbers have different signs and subtract the smaller absolute value fr
 
 $2-2=0$
 
+### **Example 1: Multiplying two integers**
+
+2*2 = 4
