@@ -12,3 +12,5 @@ When the numbers have different signs and subtract the smaller absolute value fr
 
 $2-2=0$
 
+### **Example 4: How multiplication works
+`3 x 1 = 3`
